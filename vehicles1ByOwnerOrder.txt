@@ -1,0 +1,31 @@
+Brando, Marlon: Motorcycle 1964 Harley-Davidson Sportster
+Value: $14,000.00 Use Tax: $280.00
+with Tax Rate: 0.005 Large Bike Tax Rate: 0.015
+
+Jones, Jo: Car 2017 Honda Accord (Alternative Fuel)
+Value: $22,000.00 Use Tax: $110.00
+with Tax Rate: 0.005
+
+Jones, Sam: Car 2017 Honda Accord
+Value: $22,000.00 Use Tax: $220.00
+with Tax Rate: 0.01
+
+Smith, Jack: Car 2015 Mercedes-Benz Coupe (Alternative Fuel)
+Value: $110,000.00 Use Tax: $2,750.00
+with Tax Rate: 0.005 Luxury Tax Rate: 0.02
+
+Smith, Pat: Car 2015 Mercedes-Benz Coupe
+Value: $110,000.00 Use Tax: $3,300.00
+with Tax Rate: 0.01 Luxury Tax Rate: 0.02
+
+Williams, Jo: Car 2012 Chevy Silverado
+Value: $30,000.00 Use Tax: $600.00
+with Tax Rate: 0.02
+
+Williams, Pat: Car 2012 International Big Boy
+Value: $45,000.00 Use Tax: $3,150.00
+with Tax Rate: 0.02 Large Truck Tax Rate: 0.03 Axle Tax Rate: 0.02
+
+Williams, Sam: Car 2010 Chevy Mack (Alternative Fuel)
+Value: $40,000.00 Use Tax: $1,600.00
+with Tax Rate: 0.01 Large Truck Tax Rate: 0.03
